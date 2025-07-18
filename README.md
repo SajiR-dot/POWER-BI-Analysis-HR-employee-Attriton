@@ -25,34 +25,34 @@ Examine how age, salary, job role, satisfaction, and experience influence attrit
 
 # Dashboard Features
 1. KPI Cards
-Total Employees
-
-Employees Left
-
-Attrition Rate
+   Total Employees
+   
+   Employees Left
+   
+   Attrition Rate
 
 2. Visualizations
-Bar Chart – Attrition by Job Role
-
-Clustered Column Chart – Age Groups vs Attrition
-
-Pie/Donut Chart – Attrition by Department
-
-Stacked Bar Chart – Gender vs Attrition
+   Bar Chart – Attrition by Job Role
+   
+   Clustered Column Chart – Age Groups vs Attrition
+   
+   Pie/Donut Chart – Attrition by Department
+  
+   Stacked Bar Chart – Gender vs Attrition
 
 3. DAX
    Used DAX to create new Calculated Columns and Measures like Employees left,Attrition Rate,Age groups etc
 
 # Insights Discovered
-Younger employees (under 35) show higher attrition.
-
-Job roles like Sales Representatives and Laboratory Technicians had more attrition.
-
-Employees with low job satisfaction or low income tend to leave more.
+   Younger employees (under 35) show higher attrition.
+   
+   Job roles like Sales Representatives and Laboratory Technicians had more attrition.
+   
+   Employees with low job satisfaction or low income tend to leave more.
 
 # Conclusion
-This dashboard provides HR teams with a clear view of the attrition landscape. By analyzing multiple dimensions (age, department, job role, income), the dashboard enables data-driven interventions to improve employee retention.
-   
+   This dashboard provides HR teams with a clear view of the attrition landscape. By analyzing multiple dimensions (age, department, job role, income), the dashboard enables data-driven interventions to improve employee retention.
+      
 
 
 
